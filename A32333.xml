@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties most gracious speech, together with the Lord Chancellors, to both Houses of Parliament, on Thursday the 6th of March, 1678/9</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 23KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32333</idno><idno type="EEBO-CITATION">15345647</idno>
+  <idno type="VID">103455</idno>
+  <idno type="EEBO-PROQUEST">2248501554</idno>
+  
+            <idno type="STC">Wing C3184A</idno>
+            <idno type="STC">ESTC R35501</idno>
+            <idno type="OCLC">15345647</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A32333)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103455)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1147:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties most gracious speech, together with the Lord Chancellors, to both Houses of Parliament, on Thursday the 6th of March, 1678/9</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill, Christopher Barker, Thomas Newcomb, and Henry Hils,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678/9.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Popish Plot, 1678.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103455:1"/>
+            <p>His Majesties Most Gracious SPEECH, Together with the Lord Chancellors, To both Houses of PARLIAMENT, On <hi>Thursday</hi> the 6<seg rend="sup">th</seg> of <hi>March</hi> 1678/9.</p>
+            <p>
+               <hi>By His Majesties special Command.</hi>
+            </p>
+            <figure>
+               <figDesc>arms of Charles II</figDesc>
+               <head>C R</head>
+               <q>
+                  <gap reason="illegible" resp="#keyers" extent="3 words">
+                     <desc>〈◊◊◊〉</desc>
+                  </gap> MAL Y <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bill, Christopher Barker, Thomas Newcomb,</hi> and <hi>Henry Hills,</hi> Printers to the Kings most Excellent Majesty, 1678/9.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:103455:2"/>
+            <pb n="3" facs="tcp:103455:2"/>
+            <head>His Majesties Most Gracious SPEECH To both Houses of PARLIAMENT,</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Meet you here with the most earnest desire that Man can have, to unite the minds of all My Sub<g ref="char:EOLhyphen"/>jects, both to Me, and to one another, and I resolve it shall be your Faults, if the Success be not suitable to My desires; I have done many great things already in order to that End; as the Exclusion of the Popish Lords from their Seats in Parliament, the Execution of several men, both upon the score of the Plot,
+<pb n="4" facs="tcp:103455:3"/> and of the Murder of Sir <hi>Edmond-berry Godfrey,</hi> and it is apparent that I have not been idle in Prosecuting the Discovery of both, as much further as hath been possible in so short a time.</p>
+            <p>I have Disbanded as much of the Ar<g ref="char:EOLhyphen"/>my ay I could get Money to do, and I am ready to Disband the rest so soon as you shall Reimburse what they have cost Me, and will inable me to Pay off ther remainder: And above all, I have Commanded My Brother to ab<g ref="char:EOLhyphen"/>sent himself from Me, because I would not leave the most malicious Men room to say, I had not removed all Causes which could be pretended to influence Me towards Popish Counsels.</p>
+            <p>Besides that end of Ʋnion which I aim at (and which I wish could be ex<g ref="char:EOLhyphen"/>tended to Protestants abroad as well as at home) I propose by this last great Step I have made, to discern whether Protestant Religion, and the Peace of the Kingdom be as truly aimed at by others, as they are really intended by Me; For if they be, You will imploy your time upon the great Concerns of the Nation, and not be drawn to pro<g ref="char:EOLhyphen"/>mote
+<pb n="5" facs="tcp:103455:3"/> private Animosities under pre<g ref="char:EOLhyphen"/>tences of the Publique; Your Pro<g ref="char:EOLhyphen"/>ceedings will be calm and peaceable in order to those good Ends I have recom<g ref="char:EOLhyphen"/>mended to you, and you will Curb the Motions of any unruly Spirits which would endeavour to disturb them, I hope there will be none such amongst you, because there can be no man that must not see how fatal Differences a<g ref="char:EOLhyphen"/>mongst our Selves are like to be at this time both at home and abroad.</p>
+            <p>I shall not cease my Endeavours dai<g ref="char:EOLhyphen"/>ly to find out what more I can, both of the Plot, and Murder of Sir <hi>Edmond-berry Godfrey,</hi> and shall desire the Assistance of both My Houses in that Work.</p>
+            <p>I have not been wanting to give Or<g ref="char:EOLhyphen"/>ders for putting all the present Laws in Execution against Papists, and I am ready to joyn in the making such fur<g ref="char:EOLhyphen"/>ther Laws as may be necessary for Se<g ref="char:EOLhyphen"/>curing of the Kingdom against Popery.</p>
+            <p>I must desire your Assistance also in Supplies, both for Disbanding the Ar<g ref="char:EOLhyphen"/>my (as I have already told you) and for Paying that part of the Fleet which
+<pb n="6" facs="tcp:103455:4"/> hath been Provided for by Parliament but till the Fifth of <hi>June</hi> last, as also that Debt for Stores, which was occasioned by the Poll-Bills falling short of the Sum which that Act gave Credit for.</p>
+            <p>I must necessarily recommend to you likewise the Discharging of those An<g ref="char:EOLhyphen"/>ticipations which are upon my Reve<g ref="char:EOLhyphen"/>nue, and which I have Commanded to be laid before you, and I have just cause to desire such an Increase of the Reve<g ref="char:EOLhyphen"/>nue it self, as might make it equal to My necessary Expences; but by reason of those other Supplies which are ab<g ref="char:EOLhyphen"/>solutely necessary at this time, I am contented to struggle with that Dif<g ref="char:EOLhyphen"/>ficulty a while longer, expecting for the present onely to have the Addition<g ref="char:EOLhyphen"/>al Duties upon Customs and Excise to be prolonged to Me, and that you will some way make up the Loss I sustain by the Prohibition by <hi>French Wines</hi> and <hi>Brandy,</hi> which turns onely to My prejudice, and to the great advantage of the <hi>French.</hi>
+            </p>
+            <p>I must needs put you in mind how necessary it will be to have a good Strength at Sea this Summer, since
+<pb n="7" facs="tcp:103455:4"/> Our Neighbours are making Naval Preparations; And notwithstanding the great Difficulties I labour under, I have taken such Care as will prevent any Danger which can threaten Ʋs, if your Parts be performed in time.</p>
+            <p>And I do heartily recommend to you, That such a constant Establishment might be made for the Navy, as might make this Kingdom not onely Safe, but Formidable, which can never be whilst there remains not enough besides to pay the necessary Charges of the Crown.</p>
+            <p>I will conclude as I begun, with my earnest desires to have this an Healing Parliament, and I do give you this As<g ref="char:EOLhyphen"/>surance, That I will with My Life Defend both the Protestant Religion, and the Laws of this Kingdom, and I do expect from you to be Defended from the Calumny, as well as Danger of those worst of men, who endeavour to render Me and My Government odious to My People.</p>
+            <trailer>The rest I leave to the Lord Chancellor.</trailer>
+         </div>
+         <div type="speech">
+            <pb facs="tcp:103455:5"/>
+            <pb n="9" facs="tcp:103455:5"/>
+            <head>THE Lord Chancellors SPEECH To both Houses of PARLIAMENT.</head>
+            <opener>
+               <salute>My Lords, and you the Knights, Citizens, and Burgesses of the Houses of Commons,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou are here Assembled by vertue of His Majesties most Gracious Writs of Summons to hold a Parlia<g ref="char:EOLhyphen"/>ment, The Great, The Wise, and the Powerful Councel of this Kingdom; From the Wisdom of this Councel The King is sure He shall receive the Best Ad<g ref="char:EOLhyphen"/>vice, From the Duty and Loyalty of this Assem<g ref="char:EOLhyphen"/>bly He can never want a Cheerful Assistance. And the King Resolves to Meet You All with so much Grace and Goodness, that He hopes this Parliament shall End in no Disappointment of Any, but our Enemies.</p>
+            <p>It may seem strange perhaps to some, That His Majesty who had so long and large an Experience of the Duty of the last Parliament, should now, and in this present Conjuncture, think fit to call a New one; But the King hath so Equal a Confidence in the Affections of All His good Sub<g ref="char:EOLhyphen"/>jects, that He intends to be Acquainted with them All, and to have many and frequent Consul<g ref="char:EOLhyphen"/>tations with them, And hopes by this means to at<g ref="char:EOLhyphen"/>tain
+<pb n="10" facs="tcp:103455:6"/> first a true and right Understanding of the Desires of his People, and next to that, to be rightly Understood by them.</p>
+            <p>The Considerations which are now to be laid before you are as Urgent and as Weighty as were ever yet Offer'd to any Parliament, or indeed ever can be, So Great and so Surprizing have been our Dangers at Home, So Formi<g ref="char:EOLhyphen"/>dable are the Appearances of Danger from a<g ref="char:EOLhyphen"/>broad, That the most United Counsels, The most Sedate and the Calmest Temper, together with the most dutiful and zealous Affections that a Parliament can Shew, are all become absolutely and indispensably Necessary for Our Preservation.</p>
+            <p>At Home we had need look about Us, for His Majesties Royal Person hath been in Danger by a Conspiracy against his Sacred Life, Maliciously contriv'd, and Industriously carried on by those Seminary Priests and Jesuits and their Adherents, who think themselves under some Obligation of Conscience to Effect it, And having Vow'd the Subversion of the True Religion amongst Us, find no Way so likely to Compass it, as to Wound us in the Head, and to Kill the Defender of the Faith.</p>
+            <p>His Majesty wanted not sufficient Evidence of His Zeal for Our Religion, without this Testi<g ref="char:EOLhyphen"/>mony from His Enemies, who were about to Sa<g ref="char:EOLhyphen"/>crifice Him for it; But it hath ever been the Pra<g ref="char:EOLhyphen"/>ctice of those Votaries, first to Murder the Fame of Princes, and then their Persons, First to Slan<g ref="char:EOLhyphen"/>der them to their People as if they favour'd Pa<g ref="char:EOLhyphen"/>pists, and then to Assassinate them for being too Zealous Protestants. And thus by All the ways and means which Our Law calls Treason, and
+<pb n="11" facs="tcp:103455:6"/> their Divinity calls Merit and Martyrdom, They are trying to Set up the Dominion and the Supre<g ref="char:EOLhyphen"/>macy of the Pope, as if the Dignity of His Triple Crown could never be sufficiently Advanced, un<g ref="char:EOLhyphen"/>less these three Kingdoms were added unto Him, and all brought back again under that yoke, which neither we nor our Forefathers were able to bear.</p>
+            <p>The Enquiry into this Conspiracy hath been closely pursued, and the Lords of the Councel have been careful to Prosecute the Discovery ever since the Rising of the last Parliament, and the King doth now Recommend it to you to perfect: More Evidence hath been already found out, and more Malefactors discover'd, some in Hold; some Fled, Justices of Peace have been Quicken'd in the Execution of their Duty, the Negligent have been Reprov'd and Punish'd, the Diligent encourag'd and assisted in Doubtful Cases by the Opinions of the Judges, Active and faithful Messengers have been sent into all the Corners of the Kingdom, where there was any hope of Ser<g ref="char:EOLhyphen"/>vice to be done, The very Prisons have been search'd, to see whether any had fled thither to hide themselves there, and under pretence of Debt to escape the pursuit, And if any have de<g ref="char:EOLhyphen"/>sir'd leave to go beyond Sea, they have first given Security not to go to <hi>Rome,</hi> nor send their Chil<g ref="char:EOLhyphen"/>dren to be bred in any Foreign Seminaries, and then they have been obliged to give in a List of all their Menial Servants, and those Servants too have been examin'd upon Oath: And Order is given that they be again Examin'd at the Ports, and make Oath they are the same persons were Examin'd above; So that all possible Care hath been taken that no Malefactors might Es<g ref="char:EOLhyphen"/>cape us in Disguise.</p>
+            <pb n="12" facs="tcp:103455:7"/>
+            <p>And though the Priests themselves do not keep the Confessions of their Proselytes more se<g ref="char:EOLhyphen"/>cret then these keep the Injunctions of their Priests, Yet enough hath appear'd to bring some Capital Offendors to publick Justice, and to Convict them of the Crime, Some of the Trai<g ref="char:EOLhyphen"/>tors have bin Executed, Several Priests have been Arrested and imprison'd, all are hiding them<g ref="char:EOLhyphen"/>selves and Lurking in secret Corners like the Sons of Darkness. The Murderers of Sir <hi>Edmond-berry Godfrey</hi> have been condemn'd and suffer'd Death, Some Papists have Banisht themselves out of the Kingdom, others are imprison'd for not taking the Oaths, All are prosecuted towards Convi<g ref="char:EOLhyphen"/>ction, And the very Shame and Reproach which attends such abominable Practises, hath cover'd so many Faces with New and Strange Confusions, that it hath prov'd a Powerful Argument for their Conversion, nor is it to be wonder'd at that they could no longer believe All that to be Gospel which their Priests taught them, when they saw the way and means of introducing it was so far from being Evangelical.</p>
+            <p>In a word, So universal is that Despair to which the Papists are now reduced, that they have no other hopes left but this, That We may Chance to Overdoe our own Business, and by being too far transported with the fears of Popery, neglect the Opportunities We now have of making Sober and Lasting Provisions against it.</p>
+            <p>And 'tis not to be Doubted but that it would infinitely gratifie the Papists in the Revenge they wish, for this Discovery, if they could see Us Distracted with Jealousies incurable, and Distrusting the Government to such a Degree
+<pb n="13" facs="tcp:103455:7"/> as should Weaken all that Reverence by which it stands, For then the Plot would not be al<g ref="char:EOLhyphen"/>together without Effect, but those whom they could not Destroy by their Conspiracy, they should have the Satisfaction to see Ruining themselves after the Discovery, So that though We had Escapt that Desolation which they in<g ref="char:EOLhyphen"/>tended to have brought upon us, Nothing could save us from that Destruction which We should bring upon Our selves.</p>
+            <p>But their Expectations of this are as Vain, as their other Designs were Wicked, For His Ma<g ref="char:EOLhyphen"/>jesty hath already begun to let them See with what Severity be intends to Proceed against them, He hath pass'd a Law to Disable All the Nobility and Gentry of that Faction ever to Sit in Parliament, And not content with that, He did Offer to the Last Parliament, and do's a<g ref="char:EOLhyphen"/>gain renew the same Offer to this Parliament, to Pass any further Laws against Popery which shall be desired, So as the same Extend not to the Diminution of His own Prerogative, nor to alter the Descent of the Crown in the Right Line, nor to Defeat the Succession. He hath refus'd the Petition of the Lords who during the Interval of Parliament desired to be brought to their Trial, and after so long an Imprison<g ref="char:EOLhyphen"/>ment might reasonably enough have expected it. But His Majesty thought it fitter to re<g ref="char:EOLhyphen"/>serve them to a more Publique and Conspicuous Trial in Parliament. For which cause their Trial ought now to be Hasten'd, for it is high time there should be some period put to the Imprisonment of the Lords.</p>
+            <p>But that which the King hath been pleas'd to mention to you this morning Surpasses all
+<pb n="14" facs="tcp:103455:8"/> the rest, and is Sufficient of it self alone to Dis<g ref="char:EOLhyphen"/>charge all those fears of Popish Influences which many good men had too far Entertain'd: For now you see His Majesty of His Own Accord hath done that which would have been very difficult for you to Ask, and hath depriv'd Him<g ref="char:EOLhyphen"/>self of the Conversation of His Royal and On<g ref="char:EOLhyphen"/>ly Brother, by commanding Him to Depart the Kingdom, to which Command His Royal High<g ref="char:EOLhyphen"/>ness hath paid a most Humble and a most entire Submission and Obedience. This Separation was attended with a more then ordinary sorrow on both sides. But He that for Your sakes could part with such a Brother and such a Friend, you may be sure hath now no Favorite but His Peo<g ref="char:EOLhyphen"/>ple. Since therefore His Majesty hath shewn so much readiness to Concurr with, and in a man<g ref="char:EOLhyphen"/>ner to Prevent the Desires of His Parliament, 'Tis a miserable Refuge Our Enemies trust to, when they hope to see our Zeal out-run our Discretion, and that We Our Selves should be<g ref="char:EOLhyphen"/>come the unhappy Occasion of making Our own Counsels Abortive.</p>
+            <p>Not only the Care of the State, but the Care We ought to have of the Church too, will pre<g ref="char:EOLhyphen"/>serve us from all Errors of this Kind, For as there neither is, nor hath been these fifteen hun<g ref="char:EOLhyphen"/>dred years, a Purer Church then Ours, So 'tis for the sake of this poor Church alone that the State hath been so much disturb'd. It is Her Truth and Peace, Her Decency and Order which they Labour to Undermine, and pursue with so Rest<g ref="char:EOLhyphen"/>less a Malice, And since they do so, it will be necessary for Us to Distinguish between Popish and other Recusants, between them that would Destroy the whole Flock, and them that only
+<pb n="15" facs="tcp:103455:8"/> wander from it. And amongst the many good Laws You shall think fit to provide, it may not be amiss to think of some better Remedy for Regulating the Press, from whence there daily Steal forth Popish Catechisms, Psalters, and Books of Controversie, And it may be another good fruit of such a Law to hinder Schismatical and Seditious Libels too: for certainly it were much better for us to make such Laws as will prevent Offences, rather then such as serve only to punish the Offendors.</p>
+            <p>From the Dangers which we know at Home, and have already in a great measure Overcome, Be pleas'd to carry your Considerations abroad, and Weigh the Dangers which may come from thence. We all see and know the Posture of Our Neighbours, and that the General Peace of <hi>Eu<g ref="char:EOLhyphen"/>rope</hi> being once made, there must needs be Great Fleets and Armies unemploy'd, and ready for an Occasion, And 'tis as visible that some of our Neighbours are so Wasted by the War, that they are unable to give Us any help, if We should stand in need of it, And when We consider withall the Afflicted Condition of the Protestants abroad, We may be sure that every Calamity they suffer, is in some measure a Weakning of the Protestant Interest, and looks as if it were intended to make Way for a General Extirpation.</p>
+            <p>These Dangers would not be so considerable as they are, if the present Wants of the Crown were not too well known, The King doth not intend to press you at this Time with the full Considera<g ref="char:EOLhyphen"/>tion of them All, For as the King cannot hope in any One Session to do All that may be good for His People, So neither does He expect from them All that may be Necessary for Himself, But hopes
+<pb n="16" facs="tcp:103455:9"/> the good understanding between Him and His People shall be for ever maintain'd, by a Perpe<g ref="char:EOLhyphen"/>tual Reciprocation of Grace and Favour on His part, and Duty and Affection on Yours.</p>
+            <p>That which doth most press the King at Pre<g ref="char:EOLhyphen"/>sent, is the Want of that Treasure which He hath Exhausted by going as far as He could in the Disbanding of His Army, which is very much, but not fully done. The Charge of a Great Fleet at Sea now ready to be paid off after a long Service, and the Necessity of Setting out another this Summer, The Defects of the Poll-Bill, which fell short of that Sum which was allow'd to be borrow'd upon it, and by that means hath deceiv'd those who did furnish Stores upon the Credit of that Act, unless you relieve them, Together with the Continuation of some Additional Duties of Custom and Ex<g ref="char:EOLhyphen"/>cise, And it were much to be wisht, That since the Revenue at the best was always short of the Necessary Charge of the Government, A way might be found to take off those Debts and An<g ref="char:EOLhyphen"/>ticipations, and to supply that Diminution of the Customs which make it much Narrower then it was.</p>
+            <p>
+               <hi>My Lords and Gentlemen,</hi>
+            </p>
+            <p>There are so many Things to do, and so little Time to do them in, that there ought not to be one Minute lost. The Season of the Year is not yet so far advanced as to make it too late to Set out a Fleet this Summer, for most of the Pre<g ref="char:EOLhyphen"/>parations are ready if we go about it with that Diligence which is requisite, And therefore it doth infinitely Import Us All to Husband Time.</p>
+            <pb n="17" facs="tcp:103455:9"/>
+            <p>The Best way of doing this will be, to Avoid all long and tedious Consultations, which some<g ref="char:EOLhyphen"/>times do as much Harm as ill Resolutions, And above all to take heed of such Questions and Debates as tend to raise Heat, or may create any kind of Disturbance. Nor does any thing in the World so much contribute to Dispatch as a Quiet and Orderly proceeding, For they who are in Haste, and attempt to do all their Business at once, most commonly hinder themselves from bringing any thing to Perfection.</p>
+            <p>You have now an Opportunity of doing Great things for the King and Kingdom, And it deserves your utmost Care to make a right use of it, For 'tis not in the power of a Parliament to recover a Lost Opportunity, Or to restore themselves again to the same Circumstances, or the same Condition which they had once a Power to have improv'd.</p>
+            <p>Would you Secure Religion at Home, and Strengthen it from abroad by uniting the Interests of all the Protestants in <hi>Europe?</hi> This is the Time.</p>
+            <p>Would you let the Christian World see the King in a Condition able to protect those who shall Adhere to Him, or Depend upon Him? This is the Time.</p>
+            <p>Would you Extinguish all our Fears and Jea<g ref="char:EOLhyphen"/>lousies? Would you lay aside all private Animo<g ref="char:EOLhyphen"/>sities, and give them up to the Quiet and Repose of the Publique? This is the Time.</p>
+            <p>Would you lay the Foundations of a Lasting Peace, and Secure the Church and State against all the future Machinations of our Enemies? This is the time.</p>
+            <p>
+               <hi>My Lords and Gentlemen,</hi>
+            </p>
+            <p>The present Face of Things, and the State wherein We now are, is so well known and un<g ref="char:EOLhyphen"/>derstood
+<pb n="18" facs="tcp:103455:10"/> abroad, That the whole World is in Great Expectation of those Resolutions which shall be taken here, The Results of this Councel seem to be Decisive of the Fate of these King<g ref="char:EOLhyphen"/>doms for many Ages, and are like to Determine Us, either to Happiness or Misery of a very long Duration.</p>
+            <p>We use to say, and say truly, That the King when Seated in Parliament is then in the fulness of His Majesty and Power, and shines forth with the Brightest Luster: Let no Exhalations from beneath Darken or Obscure it.</p>
+            <p>Foreign Nations say, and say truly, That a King of <hi>England</hi> in Conjunction with His Parlia<g ref="char:EOLhyphen"/>ment is as Great and Dreadful a Prince as any in <hi>Europe:</hi> Shew them the Sight they are afraid of, and since they have laid it down for a Max<g ref="char:EOLhyphen"/>ime in their Politiques, That <hi>England</hi> can never be destroyed but by it Self, and that 'tis in vain to make any Attempt upon this Nation, until they be in some great Disorder and Confusion a<g ref="char:EOLhyphen"/>mong themselves, Make the Ambitious Despair betimes, and Establish so perfect an Intelligence between all the Parts of this Great Body, that there may be but one Heart and one Soul a<g ref="char:EOLhyphen"/>mong Us.</p>
+            <p>And let us All pray That He who hath once more miraculously Delivered the King, The Church, and The State, would be pleased still to continue His Divine Protection, and give us Thankful and Obedient Hearts. And when We have offer'd up those Hearts to God, Let us in the next place Offer them again to the King, and lay them down at the footstool of His Throne, That so the King may see Himself Safe in your Counsels, Rich in your Affections,
+<pb n="19" facs="tcp:103455:10"/> Victorious by your Arms, and Rais'd to such a Height by your Loyalty and Courage, That you may have the Honour of making Him the Greatest King, and He the Glory of making you the Happiest People.</p>
+            <p>I have but one thing more in Command, and that is to the Gentlemen of the House of Com<g ref="char:EOLhyphen"/>mons, That they proceed immediately to the choice of a Speaker, whom His Majesty will expect to be presented to Him here at three of the Clock to morrow in the Afternoon.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
